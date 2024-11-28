@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TooDoo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="place_holder" />
+    <string name="Place_Holder">Place Holder</string>
+    <string name="checkbox">CheckBox</string>
+</resources>
